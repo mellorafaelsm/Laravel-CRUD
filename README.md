@@ -29,36 +29,34 @@ Plataformas com suporte de longo prazo geralmente enfrentam alguns problemas ap�
 
 
 * Citando as principais características.
-- Laravel é um framework com a linguagem de programação do lado do servidor PHP
-- Baseado em MVC (princípio Model-View-Controller)
+    Laravel é um framework com a linguagem de programação do lado do servidor PHP
+    Baseado em MVC (princípio Model-View-Controller)
 	Padrão de arquitetura de software focado em reuso de código, no qual ocorre a divisão da estrutura lógica de um sistema em 3 camadas: a do Modelo, relacionada ao banco de dados; a de Visão, vinculada a visualização dos dados e das páginas; e a do Controle, responsável pela conexão e transmissão de informações entre as camadas Modelo e Visão. 
-- Template Engine (Blade)
+    Template Engine (Blade)
 	O Laravel possui um sistema de template que facilita a criação da camada de visualização de dados (Páginas HTML). Responsável pela padronização da parte visual da aplicação, possibilitando maior otimização na construção de templates e facilitando a reutilização de códigos. Dentre alguns dos recursos do Blade, se destacam: Herança de layouts, sistema de tags, seções e uso de código PHP nos templates. 
-- Artisan
-
+    Artisan
 	Ferramenta embutida para linha de comando que executa as tarefas de programação repetitivas. Também pode ser usado para criar o esqueleto do código, a estrutura do banco de dados e sua migração
 
-
-- Migrations criação de tabela banco de dados
-- Sistema modular com gerenciador de dependências dedicado
-- Laravel Authentication 
-O Laravel possui, por padrão, um módulo de autenticação/autorização completo que provê todos os recursos para sua implementação, como: Autenticação de usuários, autorização de usuários, recuperação de senhas, logout, controle de sessão e cadastro de usuários. 
-- Eloquent ORM
-Com o Laravel não precisamos criar códigos SQL para manipular ou criar tabelas no Banco de Dados. Todo processo é feito utilizando código PHP que, posteriormente, será convertido em instruções SQL. Implementa o padrão Active Record, onde cada model da aplicação representa uma tabela no banco de dados. 
-- Vasta documentação.
+    Migrations criação de tabela banco de dados
+    Sistema modular com gerenciador de dependências dedicado
+    Laravel Authentication 
+    O Laravel possui, por padrão, um módulo de autenticação/autorização completo que provê todos os recursos para sua implementação, como: Autenticação de usuários, autorização de usuários, recuperação de senhas, logout, controle de sessão e cadastro de usuários. 
+    Eloquent ORM
+    Com o Laravel não precisamos criar códigos SQL para manipular ou criar tabelas no Banco de Dados. Todo processo é feito utilizando código PHP que, posteriormente, será convertido em instruções SQL. Implementa o padrão Active Record, onde cada model da aplicação representa uma tabela no banco de dados. 
+    Vasta documentação.
 A documentação do Laravel está estruturada desde sua história e instalação, até seus recursos avançados.
 
 
-Servidores Web disponíveis.
+* Servidores Web disponíveis.
 Há 1.321.140 sites que podem ser encontrados na Internet utilizando Laravel. Dentre esses 661.172 ainda estão online, e 19.476 sites no Brasil. De acordo com um relatório da BuildWith, há diversos sites de grande expressão e renome que foram desenvolvidos em Laravel. Dentre eles estão: Cielo, Catho, BTG Pactual, Leroy Merlin, CI (Companhia do Intercâmbio), Senac.
 
 
-Tipo de licença de software.
+* Tipo de licença de software.
 Laravel está sob a licensa MIT, que permite utilizar o código em sistemas proprietários;
 Essa licensa é permissiva afirmando que qualquer pessoa que obtém uma copia do software e seus arquivos de documentação associados pode lidar com eles sem restrição, incluindo sem limitação os direitos a usar, copiar, modificar, mesclar, publicar, distribuir, vender copias do software. As condições impostas para tanto são apenas manter o aviso de copyright e uma copia da licença em todas as cópias do software. 
 
 
-Responsáveis pelo desenvolvimento (proprietário ou comunidade).
+* Responsáveis pelo desenvolvimento (proprietário ou comunidade).
 Criado por Taylor Otwell, o código-fonte do Laravel é gerenciado no GitHub, e existem repositórios para cada um dos projetos do Laravel. Para encorajar a colaboração ativa, o Laravel encoraja fortemente as solicitações pull, não apenas relatórios de bug.
 A comunidade pode propor novos recursos ou melhorias do comportamento existente do Laravel no fórum de discussão GitHub do repositório do framework Laravel.
 
