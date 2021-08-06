@@ -1,6 +1,7 @@
 As vantagens e desvantagens da linguagem, framework e/ou plataforma.
-Beneficios
-	Produtividade e rapidez, você consegue gerar uma página de login ou um CRUD simples em poucos minutos. O Laravel vem com um sistema de autenticação que consiste em todos os passos necessários, como Login, Registro e Redefinição de Senha, que são executados com um único comando.
+
+- Beneficios
+    Produtividade e rapidez, você consegue gerar uma página de login ou um CRUD simples em poucos minutos. O Laravel vem com um sistema de autenticação que consiste em todos os passos necessários, como Login, Registro e Redefinição de Senha, que são executados com um único comando.
 
 	Framework testado e aprovado em várias empresas, o laravel é o framework php mais usado no mundo (mais de 1.1 milhão de websites foram construidos usando laravel)
 
@@ -12,10 +13,10 @@ Beneficios
 
 	O Laravel é fácil de desenvolver devido à documentação detalhada, a vasta biblioteca de documentação, guias e tutoriais em vídeo. Sendo é apoiado por uma grande comunidade no GitHub.
 
-Framework código-aberto e grátis para usar em qualquer projeto
+    Framework código-aberto e grátis para usar em qualquer projeto
 
 
-Desvantagens
+- Desvantagens
 O Composer não é forte o suficiente
 Como o Laravel é um novo framework, é difícil para os desenvolvedores lidar com ele. Além disso, o compositor do Laravel não é forte o suficiente em comparação com Ruby gems, npm (node.js), pip (para python), etc.
 
@@ -24,6 +25,7 @@ Plataformas com suporte de longo prazo geralmente enfrentam alguns problemas ap�
 
 Documentação pesada com a qual nem todos os programadores conseguem lidar no início. No entanto, o suporte do Laravel e da comunidade de desenvolvedores online pode tornar o estágio inicial de trabalho com o framework o mais simples possível
 
+
 Citando as principais características.
 - Laravel é um framework com a linguagem de programação do lado do servidor PHP
 - Baseado em MVC (princípio Model-View-Controller)
@@ -31,7 +33,9 @@ Citando as principais características.
 - Template Engine (Blade)
 	O Laravel possui um sistema de template que facilita a criação da camada de visualização de dados (Páginas HTML). Responsável pela padronização da parte visual da aplicação, possibilitando maior otimização na construção de templates e facilitando a reutilização de códigos. Dentre alguns dos recursos do Blade, se destacam: Herança de layouts, sistema de tags, seções e uso de código PHP nos templates. 
 - Artisan
+
 	Ferramenta embutida para linha de comando que executa as tarefas de programação repetitivas. Também pode ser usado para criar o esqueleto do código, a estrutura do banco de dados e sua migração
+
 
 - Migrations criação de tabela banco de dados
 - Sistema modular com gerenciador de dependências dedicado
@@ -42,8 +46,10 @@ Com o Laravel não precisamos criar códigos SQL para manipular ou criar tabelas
 - Vasta documentação.
 A documentação do Laravel está estruturada desde sua história e instalação, até seus recursos avançados.
 
+
 Servidores Web disponíveis.
 Há 1.321.140 sites que podem ser encontrados na Internet utilizando Laravel. Dentre esses 661.172 ainda estão online, e 19.476 sites no Brasil. De acordo com um relatório da BuildWith, há diversos sites de grande expressão e renome que foram desenvolvidos em Laravel. Dentre eles estão: Cielo, Catho, BTG Pactual, Leroy Merlin, CI (Companhia do Intercâmbio), Senac.
+
 
 Tipo de licença de software.
 Laravel está sob a licensa MIT, que permite utilizar o código em sistemas proprietários;
@@ -55,7 +61,7 @@ Criado por Taylor Otwell, o código-fonte do Laravel é gerenciado no GitHub, e 
 A comunidade pode propor novos recursos ou melhorias do comportamento existente do Laravel no fórum de discussão GitHub do repositório do framework Laravel.
 
 
-Tutorial de configuração do framework Laravel versão 6.x
+* Tutorial de configuração do framework Laravel versão 6.x *
 Esse tutorial apresenta o processo de instalação e configuração do framework laravel e as etapas realizadas para criar um crud de clientes.
 
 1º passo - acessar https://laravel.com/ → documentation para verificar os pré-requisitos
