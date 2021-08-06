@@ -28,7 +28,7 @@ Plataformas com suporte de longo prazo geralmente enfrentam alguns problemas ap�
     Documentação pesada com a qual nem todos os programadores conseguem lidar no início. No entanto, o suporte do Laravel e da comunidade de desenvolvedores online pode tornar o estágio inicial de trabalho com o framework o mais simples possível
 
 
-- Citando as principais características.
+* Citando as principais características.
 - Laravel é um framework com a linguagem de programação do lado do servidor PHP
 - Baseado em MVC (princípio Model-View-Controller)
 	Padrão de arquitetura de software focado em reuso de código, no qual ocorre a divisão da estrutura lógica de um sistema em 3 camadas: a do Modelo, relacionada ao banco de dados; a de Visão, vinculada a visualização dos dados e das páginas; e a do Controle, responsável pela conexão e transmissão de informações entre as camadas Modelo e Visão. 
